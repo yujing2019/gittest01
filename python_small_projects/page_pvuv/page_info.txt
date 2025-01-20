@@ -1,0 +1,8 @@
+1001	first_page
+1002	list_page
+1003	detail_page
+1004	cart
+1005	pay_success
+1006	pay_failure
+1007	share_success
+1008	order_history

@@ -1,0 +1,9 @@
+tom3	english	92
+tom3	math	82
+tom3	physics	43
+lisa	english	39
+lisa	math	27
+lisa	physics	96
+jack	english	55
+jack	math	65
+jack	physics	74
