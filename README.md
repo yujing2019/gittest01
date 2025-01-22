@@ -4,4 +4,4 @@ You'd better use pycharm to open the project.
 use pip install -r requirements.txt to install the environment for the project.
 feel free to ask questions to me. 
 email:yujingstar811@gmail.com
-author: yujing liao
+author: liaoyujing
